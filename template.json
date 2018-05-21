@@ -1,0 +1,9 @@
+{
+  "name":"RewardUser",
+  "fields":[
+    "racc id",
+    "kuid",
+    "phone",
+    "point total"
+  ]
+}
